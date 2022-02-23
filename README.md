@@ -7,7 +7,7 @@ Experimenting with scraping job openings from the web.
 - Python 3.6+ (was developed using python 3.8)
 - pip/virtualenv installed
 
-# Installing
+# Installingg
 
 Create a virtualenv and install requirements. You can do this by running
 
